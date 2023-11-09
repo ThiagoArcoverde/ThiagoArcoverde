@@ -1,7 +1,7 @@
 # Hi there, I'm Thiago Arcoverde👋
 **About Me:**
-- 🔭 Currently working as a .Net C# Fullstack developer
-- 🌱 Currently learning Javascript, Typescript, NodeJS and some Design Patterns
+- 🔭 Currently working as a .Net C# Fullstack developer at Atak Sistemas
+- 🌱 Currently learning NodeJS, VueJS and some Design Patterns
 - 📫 How to reach me: [thiagoarcoverdecontato@gmail.com](mailto:thiagoarcoverdecontato@gmail.com)
 
 **Technologies I Work With:**
