@@ -7,7 +7,7 @@
 **Technologies I Work With:**
 <div align="center">
   <a href="https://github.com/ThiagoArcoverde"> 
-    <img src="https://skillicons.dev/icons?i=c,cs,js,ts,html,css,dotnet,nodejs,express,sequelize,mysql,mongodb,git,github,discord">
+    <img src="https://skillicons.dev/icons?i=c,cs,js,ts,html,css,dotnet,nodejs,vue,express,sequelize,mysql,mongodb,git,github,discord&perline=8">
   </a>
 </div>
 
