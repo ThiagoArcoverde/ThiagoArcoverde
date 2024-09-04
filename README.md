@@ -1,7 +1,7 @@
 # Hi there, I'm Thiago Arcoverde👋
 **About Me:**
-- 🔭 Currently working as a .Net C# Fullstack developer at Atak Sistemas
-- 🌱 Currently learning Elixir and AWS
+- 🔭 Currently working as a .Net C# Fullstack developer at Invillia
+- 🌱 Currently learning React Native
 - 📫 How to reach me: [thiagoarcoverdecontato@gmail.com](mailto:thiagoarcoverdecontato@gmail.com)
 
 **Technologies I Work With:**
