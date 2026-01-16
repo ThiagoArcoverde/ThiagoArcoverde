@@ -1,7 +1,7 @@
 # Hi there, I'm Thiago Arcoverde👋
 **About Me:**
-- 🔭 Currently working as a .Net C# Fullstack developer at Avenue Code
-- 🌱 Currently learning React Native
+- 🔭 Currently working as a .Net C# Fullstack developer at Act Digital
+- 🌱 Currently learning React and GraphQL
 - 📫 How to reach me: [thiagoarcoverdecontato@gmail.com](mailto:thiagoarcoverdecontato@gmail.com)
 
 **Technologies I Work With:**
